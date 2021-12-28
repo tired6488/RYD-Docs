@@ -71,7 +71,7 @@ If nothing mentioned above this helped
 2. Open a new tab.
 3. Type [chrome://extensions](chrome://extensions) in [address bar](https://en.wikipedia.org/wiki/Address_bar#Address_bar_implementations) (the [**topmost bar**](https://upload.wikimedia.org/wikipedia/commons/6/68/HTTPS_and_padlock_in_website_address_bar.jpg) below tabs)
 4. Find the extension.
-5. If its written <span style="color: red">`service worker (Inactive)`</span> in red, then the problem is with your browser.
+5. If its written `service worker (Inactive)` in red, then the problem is with your browser.
 
 **This is not a bug in the extesnion.** This is a bug in the browsers. **We cannot do anything about this.**
 
