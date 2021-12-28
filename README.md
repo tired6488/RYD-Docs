@@ -6,4 +6,4 @@ Please note: **This is temporary**
 
 (It was supposed to be a wiki)
 
-[home.md](https://sy-b.github.io/RYD-docs/home.html)
+[home.md](https://sy-b.github.io/RYD-docs/home)
