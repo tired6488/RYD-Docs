@@ -6,4 +6,4 @@ Please note: **This is temporary**
 
 (It was supposed to be a wiki)
 
-(homw.md)(/home.html)
+(home.md)[/home.html]
