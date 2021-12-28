@@ -71,9 +71,9 @@ If nothing mentioned above this helped
 2. Open a new tab.
 3. Type [chrome://extensions](chrome://extensions) in [address bar](https://en.wikipedia.org/wiki/Address_bar#Address_bar_implementations) (the [**topmost bar**](https://upload.wikimedia.org/wikipedia/commons/6/68/HTTPS_and_padlock_in_website_address_bar.jpg) below tabs)
 4. Find the extension.
-5. If its written `service worker (Inactive)` in red, then the problem is with your browser.
+5. If its written <span style="color: red">`service worker (Inactive)`</span> in red, then the problem is with your browser.
 
-<!-- I don't know why people can't differentiate between address bar & search bar! -->
+**This is not a bug in the extesnion.** This is a bug in the browsers. **We cannot do anything about this.**
 
 ᲼᲼
 
@@ -123,8 +123,6 @@ If you don't want to install the certificate from Google drive
 
 #### [In Firefox Based Browsers][2]
 
-᲼᲼
-
 ##### On Windows
 
 1. Press `Ctrl` + `Shift` + `K` all at one
@@ -168,6 +166,8 @@ Coming soon. Please have patience.
 ᲼᲼
 
 ## Contact in Discord Server
+
+**Only if nothing mentioned above helped and you still have problem.**
 
 [Discord server link: https://discord.gg/mYnESY4Md5][3]
 
