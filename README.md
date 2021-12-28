@@ -6,4 +6,4 @@ Please note: **This is temporary**
 
 (It was supposed to be a wiki)
 
-(home.md)[/home.html]
+[home.md](/home.html)
