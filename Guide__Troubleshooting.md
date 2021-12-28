@@ -83,8 +83,13 @@ If nothing mentioned above this helped
 
 and only for  [Chromium Based Browsers][1]
 
+If you get `Your Connection is not private` when you [check API status](#check-api-status) then you might need to install the latest certificates manualy. Because
+
 - [Chromium based browsers][1] don't have their own certificate manager.
 - They use Windows' certificates manager.
+- Microsoft has officially dropped the support to Windows 7
+
+You will have to install the latest certificates for that.
 
 You can Follow this guide:
 
