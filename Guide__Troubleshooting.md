@@ -178,7 +178,10 @@ Coming soon. Please have patience.
 
 0. Join the discord server if haven't already
 1. Go to #Bugs-and-problems channel
-2. Thoroughly your problem there.
+2. There, thoroughly describe:
+  - your problem
+  - what you have tried & what didnt work
+  - results of the troubleshooting steps
 
 <!-- {
   "update_frequency" : "low"
