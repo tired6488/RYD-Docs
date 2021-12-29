@@ -84,7 +84,7 @@ You can have a look at these pages for more information (the reason why its not 
 
 For now you can try this
 
-- [For Jailbroken iOS - **WE TAKE NO RESPOSLIBITY. USE AT OUR OWN RISK**](https://repo.lillieweeb001.xyz/)
+- [For Jailbroken iOS - **WE TAKE NO RESPOSLIBITY. USE AT YOUR OWN RISK**](https://repo.lillieweeb001.xyz/)
   
   This is an iOS port [**developed by a separate team**](https://github.com/LillieWeeb001/Return-YouTube-Dislikes/) not related with owner of github.com/Anarios/return-youtube-dislike
 
